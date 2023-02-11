@@ -1,0 +1,72 @@
+{
+    "Dragon Ball Super CCG": [
+        {
+            "name": "Realm of the Gods Booster Box",
+            "price": 213.12
+        },
+        {
+            "name": "Dawn of the Z-Legends Booster Box",
+            "price": 117.95
+        },
+        {
+            "name": "Cross Spirits Booster Box",
+            "price": 91.66
+        }
+    ],
+    "Pokemon": [
+        {
+            "name": "Battle Styles Booster Box",
+            "price": 108.66
+        },
+        {
+            "name": "Unbroken Bonds Booster Box",
+            "price": 481.0
+        },
+        {
+            "name": "Evolving Skies Booster Box",
+            "price": 281.47
+        },
+        {
+            "name": "Sword & Shield Booster Box",
+            "price": 274.49
+        },
+        {
+            "name": "Brilliant Stars Booster Box",
+            "price": 182.01
+        },
+        {
+            "name": "Darkness Ablaze Booster Box",
+            "price": 139.64
+        },
+        {
+            "name": "Lost Origin Booster Box",
+            "price": 138.98
+        },
+        {
+            "name": "Chilling Reign Booster Box",
+            "price": 134.19
+        },
+        {
+            "name": "Silver Tempest Booster Box",
+            "price": 130.72
+        },
+        {
+            "name": "Fusion Strike Booster Box",
+            "price": 128.97
+        },
+        {
+            "name": "Vivid Voltage Booster Box",
+            "price": 128.7
+        },
+        {
+            "name": "Astral Radiance Booster Box",
+            "price": 120.26
+        }
+    ],
+    "One Piece Card Game": [
+        {
+            "name": "Romance Dawn Booster Box",
+            "price": 256.3
+        }
+    ]
+}
